@@ -1,4 +1,4 @@
-    col-sm-2 sidenav {
+    .col-sm-2 sidenav {
       padding-top: 20px;
       background-color: #f1f1f1;
       height: 100%;
