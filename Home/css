@@ -1,5 +1,9 @@
-    .col-sm-2 sidenav {
-      padding-top: 20px;
-      background-color: #f1f1f1;
-      height: 100%;
+.col-sm-2 sidenav {
+     padding-top: 20px;
+     background-color: #f1f1f1;
+     height: 100%;
    }
+
+#myCarousel {
+    margin-bottom: 20px;
+    }
