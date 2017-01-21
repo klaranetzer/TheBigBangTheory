@@ -1,4 +1,7 @@
 .row{
-     margin-bottom: 20px;
+     margin-bottom: 30px;
 }
 
+.col-sm-4 {
+     margin-top: 5px;
+}
