@@ -1,3 +1,7 @@
 .container text-center {
      margin-bottom: 20px;
      }
+
+p {
+     color: blue;
+     }
