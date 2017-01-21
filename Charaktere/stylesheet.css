@@ -1,7 +1,4 @@
-.container text-center {
+.row{
      margin-bottom: 20px;
-     }
+}
 
-p {
-     color: blue;
-     }
