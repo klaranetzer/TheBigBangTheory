@@ -12,7 +12,12 @@ h1 {
 p {
      font-size:10;
 }
-     
+    
+img {
+     width: 255px
+     height: 255px
+}
+
 #Sheldon {
      margin-top: 15px;
 }
