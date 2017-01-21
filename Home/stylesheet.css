@@ -4,6 +4,10 @@
      height: 100%;
    }
 
+.container {
+     margin-bottom: 70px;
+}
+
 #myCarousel {
     margin-bottom: 35px;
     }
