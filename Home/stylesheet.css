@@ -6,6 +6,7 @@
 
 .container {
      margin-bottom: 70px;
+     margin-top: 40px;
 }
 
 #myCarousel {
@@ -16,6 +17,3 @@
      text-align: left;
 }
 
-navbar navbar-inverse navbar-fixed-top {
-     margin-bottom: 25px;
-}
