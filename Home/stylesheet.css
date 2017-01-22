@@ -15,3 +15,7 @@
 .row {
      text-align: left;
 }
+
+.navbar navbar-inverse {
+     position: fixed;
+}
