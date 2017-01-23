@@ -20,6 +20,11 @@
 .Abstand1 {
      margin-bottom: 50px;
 }
+
 span {
      font-weight: bold;
+}
+
+h2 {
+     font-size: 40px;
 }
